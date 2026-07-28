@@ -1,0 +1,10 @@
+{
+  "name": "hacker-vibe",
+  "description": "Plays cyberpunk synth and mechanical-keyboard ASMR while Claude Code is working.",
+  "version": "1.0.1",
+  "author": {
+    "name": "Sam Burke"
+  },
+  "license": "MIT",
+  "keywords": ["audio", "hooks", "ambience"]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hacker-vibe",
+  "description": "Audio ambience for Claude Code.",
+  "owner": {
+    "name": "Sam Burke",
+    "url": "https://github.com/samburke-developer"
+  },
+  "plugins": [
+    {
+      "name": "hacker-vibe",
+      "source": "./",
+      "displayName": "Hacker Vibe",
+      "description": "Plays cyberpunk synth and mechanical-keyboard ASMR while Claude Code is working.",
+      "version": "1.0.1",
+      "license": "MIT",
+      "keywords": ["audio", "hooks", "ambience"],
+      "author": {
+        "name": "Sam Burke"
+      }
+    }
+  ]
+}
